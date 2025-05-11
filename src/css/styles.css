@@ -1,0 +1,9 @@
+html {
+    background-color: #96A1A8;}
+    
+.qrbox {
+    width: 100%; /* Responsive width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below image */
+    margin: 0 auto; /* Center image horizontally */
+}
