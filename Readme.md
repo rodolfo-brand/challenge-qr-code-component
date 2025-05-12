@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![](./src/images/hello-there.png)
+![](/src/images/hello-there.png)
 
 Hello there, i`m Rodolfo Brand and this is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). I appreciate Frontend Mentor for making this challenge available.
 
