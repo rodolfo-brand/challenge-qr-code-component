@@ -1,5 +1,4 @@
 * {
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,12 +10,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #96A1A8;
+    background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
 }
 
 .qrbox {
-    background-color: #ffffff;
+
+    background-color: hsl(0, 0%, 100%);
     max-width: 320px;
     padding: 1rem;
     border-radius: 1.25rem;
@@ -26,7 +26,27 @@ body {
 }
 
 .qr-image {
+
     width: 100%;
     border-radius: 0.75rem;
     margin-bottom: 1.5rem;
+}
+
+.qrbox h1 {
+
+    color: hsl(218, 44%, 22%);
+    font-size: 1.375rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    padding: 0 0.5rem;
+}
+
+.qrbox p {
+
+    color: hsl(216, 15%, 48%);
+    font-size: 0.9375rem;
+    font-weight: 400;
+    padding: 0 0.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
 }
