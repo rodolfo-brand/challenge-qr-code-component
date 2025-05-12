@@ -24,8 +24,9 @@ Hello there, i`m Rodolfo Brand and this is my solution to the [QR code component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [qr-code-challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-Y7D2iMiDUu)
 - Live Site URL: [Netlify](https://heartfelt-salamander-c5ea3a.netlify.app/)
+- Live Site URL: [GithubPages](https://rodolfo-brand.github.io/challenge-qr-code-component/)
 
 ## My process
 
