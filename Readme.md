@@ -25,7 +25,7 @@ Hello there, i`m Rodolfo Brand and this is my solution to the [QR code component
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://heartfelt-salamander-c5ea3a.netlify.app/)
 
 ## My process
 
