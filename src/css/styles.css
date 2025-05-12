@@ -24,3 +24,9 @@ body {
     text-align: center;
     margin: 1.5rem;
 }
+
+.qr-image {
+    width: 100%;
+    border-radius: 0.75rem;
+    margin-bottom: 1.5rem;
+}
