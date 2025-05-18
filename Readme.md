@@ -63,20 +63,23 @@ body {
 I would love to have some personal made qr-codes of things i created from scratch. With this challenge i perceived some gaps in my code and semantics. I hope in the future i'll be able to better organize my projects.
 
 ### Useful resources
-
-- [DeepSeek](https://www.deepseek.com/) - I highly recommend anyone doing this challenge to learn how to use ai in your favour. I personally like Deepseek, but i`m sure that Gemini, ChatGPT, Copilot and others would be just as fine as well.
-
-    An example of how i use deepseek is to better understand what kind of measurement should i use for my project, is it absolute or relative? How should i adress the colors on css? Hex, RGB, HSL?
-
-    The R1 deepthink feature of deepseek is particularly useful for morre elaborate answers
-
-- [Linux Mint](https://linuxmint.com/) - I love this operating system because it`s open source, has a good resemblance with windows, is easy to use, and for my personal favorite, has a built-in terminal to use Git.
+<a href="httsp://deepseek.com/" target="_blank"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=plastic&logo=deepseek&logoColor=white" width="91" target="_blank"></a>
+<br>
+I highly recommend anyone doing this challenge to learn how to use ai in your favour. Deepseek was the choice for this repository, but I'm sure that Gemini, ChatGPT, Copilot and others would also work wonders.
+<br>
+An example of how i use deepseek is to better understand what kind of measurement should i use for my project, is it absolute or relative? How should i adress the colors on css? Hex, RGB, HSL?
+The R1 deepthink feature of deepseek is particularly useful for more elaborate answers.
+<br>
+<br>
+<a href="https://linuxmint.com/" target="_blank"><img src="https://img.shields.io/badge/Linux_Mint-6c9f38?style=plastic&logo=linux-mint&logoColor=white" width="119" target="_blank"></a>
+<br>
+I love this operating system because it`s open source, has a good resemblance with windows, is easy to use, and for my personal favorite, has a built-in terminal to use Git.
 
 
 ## Author
 <div>
-  <a href="https://instagram.com/rodolfo__brand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:rodolfonbrand@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%2300094B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodolfonbrand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https.github.com/rodolfo-brand" target="_blank"><img src="https://img.shields.io/badge/-GitHub-212121?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rodolfo__brand" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" width="119" target="_blank"></a>
+  <a href="mailto:rodolfonbrand@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" width="83" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodolfonbrand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" width="80"  target="_blank"></a>
+  <a href="https.github.com/rodolfo-brand" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" width="92" target="_blank"></a>
 </div>
