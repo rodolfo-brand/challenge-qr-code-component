@@ -22,9 +22,11 @@ Hello there, i`m Rodolfo Brand and this is my solution to the [QR code component
 
 ### Links
 
-- Solution URL: [qr-code-challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-Y7D2iMiDUu)
-- Live Site URL: [Netlify](https://heartfelt-salamander-c5ea3a.netlify.app/)
-- Live Site URL: [GithubPages](https://rodolfo-brand.github.io/challenge-qr-code-component/)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.frontendmentor.io/solutions/qr-code-challenge-Y7D2iMiDUu" target="_blank"><img src="https://img.shields.io/badge/Solution%20Site-3D3C42?style=plastic&logo=frontendmentor&logoColor=white" width="158" alt="Frontend Mentor Solution"></a>
+  <a href="https://heartfelt-salamander-c5ea3a.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-00C7B7?style=plastic&logo=netlify&logoColor=white" width="120" alt="Live Site Netlify"></a>
+  <a href="https://rodolfo-brand.github.io/challenge-qr-code-component/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-2088FF?style=plastic&logo=github&logoColor=white" width="120" alt="Live Site GitHub Pages"></a>
+</div>
 
 ## My process
 
